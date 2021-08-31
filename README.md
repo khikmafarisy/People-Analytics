@@ -10,3 +10,5 @@ Fakta yang ada:
 a. Untuk mengurangi cost dalam rekrutmen, Perusahaan X berupaya mempertahankan talent eksisting.
 
 b. Sudah dilakukan pengukuran performansi, employee satisfaction dan employee engagement namun belum ada tindak lanjut dari hasil pengukuran.
+
+c. Bagaimana memprediksi talent yang berpotensi akan terminate (resign, performansi rendah dan lainnya)?
